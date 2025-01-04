@@ -8,7 +8,6 @@
   margin: auto;
   padding-top: 60px;
   padding-bottom: 60px;
-  min-width: 750px;
 }
 
 .logo {
@@ -25,7 +24,7 @@
   justify-content: space-between;
   flex-wrap: wrap;
   gap: 10px;
-  margin: 0 10% 5vh;;
+  margin: 0 10% 5vh;
 }
 
 .progamações img {
@@ -40,7 +39,7 @@ div {
 }
 
 p {
-  margin: 0 10%;
+  margin: 0 10vw;
 }
 
 .verso {
@@ -53,13 +52,11 @@ p {
 body {
   font-family: sans-serif;
   margin: 0;
-  min-width: 750px;
 }
 
 .dias {
   padding-bottom: 5%;
   margin: 0 10%;
-  min-width: 750px;
 }
 
 .p {
@@ -69,11 +66,9 @@ body {
 .info {
   background-color: #0a0a23;
   color: white;
-  padding-bottom: 5vh;
-  padding-left: 10%;
-  padding-right: 10%;
   padding-top: 0.5vh;
-  min-width: 750px;
+  padding-left: 10vw;
+  padding-bottom: 5vh;;
 }
 
 .info a:link {
